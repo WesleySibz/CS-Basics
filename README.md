@@ -1,6 +1,6 @@
 # C# Basics
 
-## 3/14g
+## 4/14g
 
 Hello World;
 Variables;
@@ -19,3 +19,11 @@ Continue Statement;
 C#Arrays;
 Multidimensional Array;
 C# Copy Array;
+Class and Objects;
+Methods;
+Strings;
+Access Modefiers;
+this keyword;
+final keyword;
+Recursion;
+instance of Operator;
