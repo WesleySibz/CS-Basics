@@ -1,0 +1,13 @@
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.AssemblyInfoInputs.cache
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.AssemblyInfo.cs
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.exe
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.deps.json
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.runtimeconfig.json
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.runtimeconfig.dev.json
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.dll
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.pdb
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.dll
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.pdb
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.genruntimeconfig.cache
