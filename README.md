@@ -1,6 +1,6 @@
 # C# Basics
 
-## 2/14g
+## 3/14g
 
 Hello World;
 Variables;
@@ -16,3 +16,6 @@ For-each loop;
 While loop;
 Break Statement;
 Continue Statement;
+C#Arrays;
+Multidimensional Array;
+C# Copy Array;
