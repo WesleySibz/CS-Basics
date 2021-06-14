@@ -1,0 +1,12 @@
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\bin\Debug\netcoreapp3.1\CopyArray.exe
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\bin\Debug\netcoreapp3.1\CopyArray.deps.json
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\bin\Debug\netcoreapp3.1\CopyArray.runtimeconfig.json
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\bin\Debug\netcoreapp3.1\CopyArray.runtimeconfig.dev.json
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\bin\Debug\netcoreapp3.1\CopyArray.dll
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\bin\Debug\netcoreapp3.1\CopyArray.pdb
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\obj\Debug\netcoreapp3.1\CopyArray.AssemblyInfoInputs.cache
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\obj\Debug\netcoreapp3.1\CopyArray.AssemblyInfo.cs
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\obj\Debug\netcoreapp3.1\CopyArray.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\obj\Debug\netcoreapp3.1\CopyArray.dll
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\obj\Debug\netcoreapp3.1\CopyArray.pdb
+C:\Users\Peter\Desktop\coding\Coding\cSharp Basics\CS-Basics\CopyArray\CopyArray\obj\Debug\netcoreapp3.1\CopyArray.genruntimeconfig.cache
