@@ -8,4 +8,11 @@ Data Types;
 Operators;
 Input/Output;
 Expressions & Blocks;
-Comments
+Comments;
+If...Else;
+Switch Statement;
+For loop;
+For-each loop;
+While loop;
+Break Statement;
+Continue Statement;
