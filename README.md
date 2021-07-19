@@ -21,6 +21,7 @@ Multidimensional Array;
 C# Copy Array;
 Class and Objects;
 Methods;
+Constructor;
 Strings;
 Access Modefiers;
 this keyword;
